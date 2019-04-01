@@ -12,7 +12,7 @@ public class TestSchedina {
 		s.add(Risultato.DUE);
 		s.add(Risultato.DUE);
 		s.add(Risultato.DUE);
-
+		
 		s.add(Risultato.ICS);
 		s.add(Risultato.ICS);
 		s.add(Risultato.ICS);
@@ -24,6 +24,6 @@ public class TestSchedina {
 		s.add(Risultato.DUE);
 		
 		System.out.println(s.toString());
-}
+	}
 
 }
